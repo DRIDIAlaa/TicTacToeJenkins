@@ -32,7 +32,6 @@ public class BoardTest {
 			testedBoard.playTurn(1,0,0);
 			testedBoard.playTurn(2,0,0);
 		});
-		assert
 		/*GameRuleException ex = A-a.Throws<GameRuleException>(() => playTurn());
 		Assert.That(ex.Message, Is.EqualTo("Actual exception message"));*/
 	}
